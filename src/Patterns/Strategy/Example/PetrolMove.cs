@@ -1,4 +1,4 @@
-namespace Patterns.Strategy;
+namespace Patterns.Strategy.Example;
 
 public class PetrolMove : IMovable
 {

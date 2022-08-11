@@ -1,9 +1,10 @@
 using Patterns.Strategy;
+using Patterns.Strategy.Example;
 using Patterns.UnitTests.Common.TestFactories;
 
 namespace Patterns.UnitTests;
 
-public class UnitTest1
+public class StrategyTests
 {
     [Fact]
     public void Can_modify_car()

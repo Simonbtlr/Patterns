@@ -1,4 +1,5 @@
 using Patterns.Strategy;
+using Patterns.Strategy.Example;
 
 namespace Patterns.UnitTests.Common.TestFactories;
 
