@@ -2,7 +2,7 @@ using Patterns.State.Example;
 
 namespace Patterns.UnitTests;
 
-public class State
+public class StateTests
 {
     [Fact]
     public void Solid_to_liquid()
