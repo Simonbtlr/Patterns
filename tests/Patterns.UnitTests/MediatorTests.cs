@@ -1,4 +1,3 @@
-using Moq;
 using Patterns.Mediator;
 using Patterns.UnitTests.Common;
 
