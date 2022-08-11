@@ -1,4 +1,5 @@
 using Patterns.Iterator;
+using Patterns.Iterator.Example;
 
 namespace Patterns.UnitTests;
 

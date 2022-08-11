@@ -1,4 +1,4 @@
-namespace Patterns.Iterator;
+namespace Patterns.Iterator.Example;
 
 public class Library : IBookNumerable
 {
