@@ -1,9 +1,8 @@
 using Patterns.Mediator;
-using Patterns.UnitTests.Common;
 
 namespace Patterns.UnitTests;
 
-public class MediatorTests : TestBase
+public class MediatorTests
 {
     [Fact]
     public void Customer_can_notify_programmer()
