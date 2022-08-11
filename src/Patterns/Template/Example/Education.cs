@@ -1,8 +1,8 @@
-namespace Patterns.Template;
+namespace Patterns.Template.Example;
 
-public abstract class Education
+public abstract class Education : Learning
 {
-    public void Learn()
+    public sealed override void Learn()
     {
         Enter();
         Study();

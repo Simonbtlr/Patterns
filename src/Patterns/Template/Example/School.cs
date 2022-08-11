@@ -1,4 +1,4 @@
-namespace Patterns.Template;
+namespace Patterns.Template.Example;
 
 public class School : Education
 {
