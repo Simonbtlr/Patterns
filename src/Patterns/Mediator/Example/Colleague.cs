@@ -1,4 +1,4 @@
-namespace Patterns.Mediator;
+namespace Patterns.Mediator.Example;
 
 public abstract class Colleague
 {
@@ -12,7 +12,7 @@ public abstract class Colleague
     public virtual void Send(string message)
     {
         Mediator.Send(
-            msg: message, 
+            msg: message,
             colleague: this);
     }
 

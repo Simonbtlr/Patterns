@@ -1,4 +1,4 @@
-namespace Patterns.Mediator;
+namespace Patterns.Mediator.Example;
 
 public class CustomerColleague : Colleague
 {

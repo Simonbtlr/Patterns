@@ -1,4 +1,5 @@
 using Patterns.Mediator;
+using Patterns.Mediator.Example;
 
 namespace Patterns.UnitTests;
 
