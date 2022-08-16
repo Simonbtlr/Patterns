@@ -1,4 +1,4 @@
-using Patterns.Generating_patterns.Prototype.Example;
+using Patterns.GeneratingPatterns.Prototype.Example;
 
 namespace Patterns.UnitTests;
 

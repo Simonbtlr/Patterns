@@ -1,7 +1,7 @@
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace Patterns.Generating_patterns.Prototype.Example;
+namespace Patterns.GeneratingPatterns.Prototype.Example;
 
 [Serializable]
 public class Circle : IFigure

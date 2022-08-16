@@ -1,15 +1,15 @@
-namespace Patterns.Generating_patterns.Prototype.Pattern;
+namespace Patterns.GeneratingPatterns.Prototype.Pattern;
 
 /// <summary>
 /// Конкретные реализации прототипа, реализующие метод
 /// Clone().
 /// </summary>
-public class ConcretePrototype1 : Prototype
+public class ConcretePrototype2 : Prototype
 {
-    public ConcretePrototype1(int id) : base(id)
+    public ConcretePrototype2(int id) : base(id)
     {
     }
 
     public override Prototype Clone() =>
-        new ConcretePrototype1(Id);
+        new ConcretePrototype2(Id);
 }

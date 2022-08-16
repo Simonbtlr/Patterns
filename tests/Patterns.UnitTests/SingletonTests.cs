@@ -1,4 +1,4 @@
-using Patterns.Generating_patterns.Singleton.Example;
+using Patterns.GeneratingPatterns.Singleton.Example;
 
 namespace Patterns.UnitTests;
 

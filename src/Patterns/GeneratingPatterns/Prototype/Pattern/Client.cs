@@ -1,4 +1,4 @@
-namespace Patterns.Generating_patterns.Prototype.Pattern;
+namespace Patterns.GeneratingPatterns.Prototype.Pattern;
 
 /// <summary>
 /// Создает объекты прототипов с помощью метода Clone().

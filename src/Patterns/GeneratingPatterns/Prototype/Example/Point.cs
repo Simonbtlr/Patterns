@@ -1,4 +1,4 @@
-namespace Patterns.Generating_patterns.Prototype.Example;
+namespace Patterns.GeneratingPatterns.Prototype.Example;
 
 [Serializable]
 public class Point

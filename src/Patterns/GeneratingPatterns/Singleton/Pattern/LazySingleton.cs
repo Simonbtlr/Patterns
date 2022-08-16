@@ -1,4 +1,4 @@
-namespace Patterns.Generating_patterns.Singleton.Pattern;
+namespace Patterns.GeneratingPatterns.Singleton.Pattern;
 
 public class LazySingleton
 {

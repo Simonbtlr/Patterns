@@ -1,4 +1,4 @@
-namespace Patterns.Generating_patterns.Singleton.Example;
+namespace Patterns.GeneratingPatterns.Singleton.Example;
 
 public class Computer
 {
