@@ -1,3 +1,5 @@
+using System;
+
 namespace Patterns.GeneratingPatterns.Singleton.Pattern;
 
 public class ThreadSafeSingleton

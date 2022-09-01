@@ -1,3 +1,5 @@
+using Patterns.GeneratingPatterns.AbstractFactory.Example.Factory;
+
 namespace Patterns.GeneratingPatterns.AbstractFactory.Example;
 
 public class Hero

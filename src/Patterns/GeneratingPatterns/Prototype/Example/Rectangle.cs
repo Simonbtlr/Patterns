@@ -1,3 +1,5 @@
+using System;
+
 namespace Patterns.GeneratingPatterns.Prototype.Example;
 
 public class Rectangle : IFigure
