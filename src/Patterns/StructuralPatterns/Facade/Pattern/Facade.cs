@@ -1,5 +1,9 @@
 namespace Patterns.StructuralPatterns.Facade.Pattern;
 
+/// <summary>
+/// Непосредственно фасад, который предоставляет
+/// интерфейс клиенту для работы с компонентами
+/// </summary>
 public class Facade
 {
     private readonly SubsystemA _subsystemA;

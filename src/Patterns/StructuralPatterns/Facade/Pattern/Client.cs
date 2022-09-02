@@ -1,5 +1,8 @@
 namespace Patterns.StructuralPatterns.Facade.Pattern;
 
+/// <summary>
+/// Взаимодействует с компонентами подсистемы
+/// </summary>
 public class Client
 {
     public void Main()
